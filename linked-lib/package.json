@@ -1,0 +1,8 @@
+{
+  "name": "linked-lib",
+  "description": "This is just linked",
+  "version": "1.0.0",
+  "module": "lib.mjs",
+  "dependencies": {
+  }
+}
